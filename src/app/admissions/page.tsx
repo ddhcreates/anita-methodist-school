@@ -32,4 +32,10 @@ const StepCard = ({
   </div>
 )
 
-export default function Admissions
+export default function Admissions() {
+  return (
+    <div>
+      {/* your component content */}
+    </div>
+  );
+}
